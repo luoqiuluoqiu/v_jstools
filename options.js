@@ -408,6 +408,7 @@ var funcs_1 = [
     ['DocumentType', 'after'],['DocumentType', 'before'],['DocumentType', 'remove'],['DocumentType', 'replaceWith'],['DocumentFragment', 'append'],['DocumentFragment', 'getElementById'],['DocumentFragment', 'prepend'],['DocumentFragment', 'querySelector'],['DocumentFragment', 'querySelectorAll'],['DocumentFragment', 'replaceChildren'],
     ['DataTransferItemList', 'add'],['DataTransferItemList', 'clear'],['DataTransferItemList', 'remove'],['DataTransferItem', 'getAsFile'],['DataTransferItem', 'getAsString'],['DataTransferItem', 'webkitGetAsEntry'],['DataTransferItem', 'getAsFileSystemHandle'],['DataTransfer', 'clearData'],['DataTransfer', 'getData'],['DataTransfer', 'setData'],['DataTransfer', 'setDragImage'],['DOMTokenList', 'entries'],['DOMTokenList', 'keys'],['DOMTokenList', 'values'],['DOMTokenList', 'forEach'],['DOMTokenList', 'add'],['DOMTokenList', 'contains'],['DOMTokenList', 'item'],['DOMTokenList', 'remove'],['DOMTokenList', 'replace'],['DOMTokenList', 'supports'],['DOMTokenList', 'toggle'],['DOMTokenList', 'toString'],['DOMStringList', 'contains'],['DOMStringList', 'item'],['DOMRectReadOnly', 'toJSON'],['DOMRectList', 'item'],['DOMQuad', 'getBounds'],['DOMQuad', 'toJSON'],['DOMPointReadOnly', 'matrixTransform'],['DOMPointReadOnly', 'toJSON'],['DOMParser', 'parseFromString'],['DOMMatrixReadOnly', 'flipX'],['DOMMatrixReadOnly', 'flipY'],['DOMMatrixReadOnly', 'inverse'],['DOMMatrixReadOnly', 'multiply'],['DOMMatrixReadOnly', 'rotate'],['DOMMatrixReadOnly', 'rotateAxisAngle'],['DOMMatrixReadOnly', 'rotateFromVector'],['DOMMatrixReadOnly', 'scale'],['DOMMatrixReadOnly', 'scale3d'],['DOMMatrixReadOnly', 'scaleNonUniform'],['DOMMatrixReadOnly', 'skewX'],['DOMMatrixReadOnly', 'skewY'],['DOMMatrixReadOnly', 'toFloat32Array'],['DOMMatrixReadOnly', 'toFloat64Array'],['DOMMatrixReadOnly', 'toJSON'],['DOMMatrixReadOnly', 'transformPoint'],['DOMMatrixReadOnly', 'translate'],['DOMMatrixReadOnly', 'toString'],['DOMImplementation', 'createDocument'],['DOMImplementation', 'createDocumentType'],['DOMImplementation', 'createHTMLDocument'],['DOMImplementation', 'hasFeature'],['CustomEvent', 'initCustomEvent'],['CustomElementRegistry', 'define'],['CustomElementRegistry', 'get'],['CustomElementRegistry', 'upgrade'],['CustomElementRegistry', 'whenDefined'],['Crypto', 'getRandomValues'],['CompositionEvent', 'initCompositionEvent'],['CharacterData', 'after'],['CharacterData', 'appendData'],['CharacterData', 'before'],['CharacterData', 'deleteData'],['CharacterData', 'insertData'],['CharacterData', 'remove'],['CharacterData', 'replaceData'],['CharacterData', 'replaceWith'],['CharacterData', 'substringData'],['CanvasRenderingContext2D', 'clip'],['CanvasRenderingContext2D', 'createImageData'],['CanvasRenderingContext2D', 'createLinearGradient'],['CanvasRenderingContext2D', 'createPattern'],['CanvasRenderingContext2D', 'createRadialGradient'],['CanvasRenderingContext2D', 'drawFocusIfNeeded'],['CanvasRenderingContext2D', 'drawImage'],['CanvasRenderingContext2D', 'fill'],['CanvasRenderingContext2D', 'fillText'],['CanvasRenderingContext2D', 'getContextAttributes'],['CanvasRenderingContext2D', 'getImageData'],['CanvasRenderingContext2D', 'getLineDash'],['CanvasRenderingContext2D', 'getTransform'],['CanvasRenderingContext2D', 'isPointInPath'],['CanvasRenderingContext2D', 'isPointInStroke'],['CanvasRenderingContext2D', 'measureText'],['CanvasRenderingContext2D', 'putImageData'],['CanvasRenderingContext2D', 'save'],['CanvasRenderingContext2D', 'scale'],['CanvasRenderingContext2D', 'setLineDash'],['CanvasRenderingContext2D', 'setTransform'],['CanvasRenderingContext2D', 'stroke'],['CanvasRenderingContext2D', 'strokeText'],['CanvasRenderingContext2D', 'transform'],['CanvasRenderingContext2D', 'translate'],['CanvasRenderingContext2D', 'arc'],['CanvasRenderingContext2D', 'arcTo'],['CanvasRenderingContext2D', 'beginPath'],['CanvasRenderingContext2D', 'bezierCurveTo'],['CanvasRenderingContext2D', 'clearRect'],['CanvasRenderingContext2D', 'closePath'],['CanvasRenderingContext2D', 'ellipse'],['CanvasRenderingContext2D', 'fillRect'],['CanvasRenderingContext2D', 'lineTo'],['CanvasRenderingContext2D', 'moveTo'],['CanvasRenderingContext2D', 'quadraticCurveTo'],['CanvasRenderingContext2D', 'rect'],['CanvasRenderingContext2D', 'resetTransform'],['CanvasRenderingContext2D', 'restore'],['CanvasRenderingContext2D', 'rotate'],['CanvasRenderingContext2D', 'strokeRect'],['CanvasPattern', 'setTransform'],['CanvasGradient', 'addColorStop'],['CanvasCaptureMediaStreamTrack', 'requestFrame'],['CSSTransformComponent', 'toMatrix'],['CSSTransformComponent', 'toString'],['CSSStyleValue', 'toString'],['CSSStyleSheet', 'addRule'],['CSSStyleSheet', 'deleteRule'],['CSSStyleSheet', 'insertRule'],['CSSStyleSheet', 'removeRule'],['CSSStyleSheet', 'replace'],['CSSStyleSheet', 'replaceSync'],['CSSStyleDeclaration', 'getPropertyPriority'],['CSSStyleDeclaration', 'getPropertyValue'],['CSSStyleDeclaration', 'item'],['CSSStyleDeclaration', 'removeProperty'],['CSSStyleDeclaration', 'setProperty'],['CSSRuleList', 'item'],['CSSNumericArray', 'entries'],['CSSNumericArray', 'keys'],['CSSNumericArray', 'values'],['CSSNumericArray', 'forEach'],['CSSKeyframesRule', 'appendRule'],['CSSKeyframesRule', 'deleteRule'],['CSSKeyframesRule', 'findRule'],['CSSGroupingRule', 'deleteRule'],['CSSGroupingRule', 'insertRule'],['BroadcastChannel', 'close'],['BroadcastChannel', 'postMessage'],['Blob', 'arrayBuffer'],['Blob', 'slice'],['Blob', 'stream'],['Blob', 'text'],['BiquadFilterNode', 'getFrequencyResponse'],['BeforeInstallPromptEvent', 'prompt'],['BaseAudioContext', 'createAnalyser'],['BaseAudioContext', 'createBiquadFilter'],['BaseAudioContext', 'createBuffer'],['BaseAudioContext', 'createBufferSource'],['BaseAudioContext', 'createChannelMerger'],['BaseAudioContext', 'createChannelSplitter'],['BaseAudioContext', 'createConstantSource'],['BaseAudioContext', 'createConvolver'],['BaseAudioContext', 'createDelay'],['BaseAudioContext', 'createDynamicsCompressor'],['BaseAudioContext', 'createGain'],['BaseAudioContext', 'createIIRFilter'],['BaseAudioContext', 'createOscillator'],['BaseAudioContext', 'createPanner'],['BaseAudioContext', 'createPeriodicWave'],['BaseAudioContext', 'createScriptProcessor'],['BaseAudioContext', 'createStereoPanner'],['BaseAudioContext', 'createWaveShaper'],['BaseAudioContext', 'decodeAudioData'],['AudioScheduledSourceNode', 'start'],['AudioScheduledSourceNode', 'stop'],['AudioParamMap', 'entries'],['AudioParamMap', 'forEach'],['AudioParamMap', 'get'],['AudioParamMap', 'has'],['AudioParamMap', 'keys'],['AudioParamMap', 'values'],['AudioParam', 'cancelAndHoldAtTime'],['AudioParam', 'cancelScheduledValues'],['AudioParam', 'exponentialRampToValueAtTime'],['AudioParam', 'linearRampToValueAtTime'],['AudioParam', 'setTargetAtTime'],['AudioParam', 'setValueAtTime'],['AudioParam', 'setValueCurveAtTime'],['AudioNode', 'connect'],['AudioNode', 'disconnect'],['AudioListener', 'setOrientation'],['AudioListener', 'setPosition'],['AudioContext', 'close'],['AudioContext', 'createMediaElementSource'],['AudioContext', 'createMediaStreamDestination'],['AudioContext', 'createMediaStreamSource'],['AudioContext', 'getOutputTimestamp'],['AudioContext', 'resume'],['AudioContext', 'suspend'],['AudioBufferSourceNode', 'start'],['AudioBuffer', 'copyFromChannel'],['AudioBuffer', 'copyToChannel'],['AudioBuffer', 'getChannelData'],['AnimationEffect', 'getComputedTiming'],['AnimationEffect', 'getTiming'],['AnimationEffect', 'updateTiming'],['Animation', 'cancel'],['Animation', 'finish'],['Animation', 'pause'],['Animation', 'play'],['Animation', 'reverse'],['Animation', 'updatePlaybackRate'],['Animation', 'commitStyles'],['Animation', 'persist'],['AnalyserNode', 'getByteFrequencyData'],['AnalyserNode', 'getByteTimeDomainData'],['AnalyserNode', 'getFloatFrequencyData'],['AnalyserNode', 'getFloatTimeDomainData'],['AbortController', 'abort'],['AudioData', 'allocationSize'],['AudioData', 'clone'],['AudioData', 'close'],['AudioData', 'copyTo'],['EncodedAudioChunk', 'copyTo'],['EncodedVideoChunk', 'copyTo'],['VideoColorSpace', 'toJSON'],['VideoFrame', 'allocationSize'],['VideoFrame', 'clone'],['VideoFrame', 'close'],['VideoFrame', 'copyTo'],['Profiler', 'stop'],['Scheduling', 'isInputPending'],['BackgroundFetchManager', 'fetch'],['BackgroundFetchManager', 'get'],['BackgroundFetchManager', 'getIds'],['BackgroundFetchRegistration', 'abort'],['BackgroundFetchRegistration', 'match'],['BackgroundFetchRegistration', 'matchAll'],['CustomStateSet', 'add'],['CustomStateSet', 'clear'],['CustomStateSet', 'entries'],['CustomStateSet', 'forEach'],['CustomStateSet', 'has'],['CustomStateSet', 'keys'],['CustomStateSet', 'values'],['DelegatedInkTrailPresenter', 'updateInkTrailStartPoint'],['Ink', 'requestPresenter'],['MediaSession', 'setActionHandler'],['MediaSession', 'setCameraActive'],['MediaSession', 'setMicrophoneActive'],['MediaSession', 'setPositionState'],['MediaSource', 'addSourceBuffer'],['MediaSource', 'clearLiveSeekableRange'],['MediaSource', 'endOfStream'],['MediaSource', 'removeSourceBuffer'],['MediaSource', 'setLiveSeekableRange'],['SourceBuffer', 'abort'],['SourceBuffer', 'appendBuffer'],['SourceBuffer', 'changeType'],['SourceBuffer', 'remove'],['NavigatorUAData', 'getHighEntropyValues'],['NavigatorUAData', 'toJSON'],['Notification', 'close'],['PaymentInstruments', 'clear'],['PaymentInstruments', 'get'],['PaymentInstruments', 'has'],['PaymentInstruments', 'keys'],['PaymentInstruments', 'set'],['PaymentManager', 'enableDelegations'],['PaymentRequestUpdateEvent', 'updateWith'],['PeriodicSyncManager', 'getTags'],['PeriodicSyncManager', 'register'],['PeriodicSyncManager', 'unregister'],['Permissions', 'query'],['PushManager', 'getSubscription'],['PushManager', 'permissionState'],['PushManager', 'subscribe'],['PushSubscription', 'getKey'],['PushSubscription', 'toJSON'],['PushSubscription', 'unsubscribe'],['RemotePlayback', 'cancelWatchAvailability'],['RemotePlayback', 'prompt'],['RemotePlayback', 'watchAvailability'],['Scheduler', 'postTask'],['TaskController', 'setPriority'],['TrustedHTML', 'toJSON'],['TrustedHTML', 'toString'],['TrustedScript', 'toJSON'],['TrustedScript', 'toString'],['TrustedScriptURL', 'toJSON'],['TrustedScriptURL', 'toString'],['TrustedTypePolicy', 'createHTML'],['TrustedTypePolicy', 'createScript'],['TrustedTypePolicy', 'createScriptURL'],['TrustedTypePolicyFactory', 'createPolicy'],['TrustedTypePolicyFactory', 'getAttributeType'],['TrustedTypePolicyFactory', 'getPropertyType'],['TrustedTypePolicyFactory', 'getTypeMapping'],['TrustedTypePolicyFactory', 'isHTML'],['TrustedTypePolicyFactory', 'isScript'],['TrustedTypePolicyFactory', 'isScriptURL'],['XSLTProcessor', 'clearParameters'],['XSLTProcessor', 'getParameter'],['XSLTProcessor', 'importStylesheet'],['XSLTProcessor', 'removeParameter'],['XSLTProcessor', 'reset'],['XSLTProcessor', 'setParameter'],['XSLTProcessor', 'transformToDocument'],['XSLTProcessor', 'transformToFragment'],['webkitSpeechGrammarList', 'addFromString'],['webkitSpeechGrammarList', 'addFromUri'],['webkitSpeechGrammarList', 'item'],['webkitSpeechRecognition', 'abort'],['webkitSpeechRecognition', 'start'],['webkitSpeechRecognition', 'stop']]
 
+window.keyss=[]  //记录二级标题
 function _mk_html(input, clsname, index){
   var div = document.getElementById(clsname)
   div.innerHTML += `
@@ -419,11 +420,17 @@ function _mk_html(input, clsname, index){
     var kv = input[i]
     var k = kv[0]
     var v = kv[1]
+    tmpkey=k+"_"+clsname
+    if (window.keyss.indexOf(tmpkey) == -1){
+        window.keyss.push(tmpkey)
+    }
     if (keys.indexOf(k) == -1){
       keys.push(k)
-      htmls.push(`<label style="margin-left: 20px" >${k}<br /> </label>`)
+      // htmls.push(`<label style="margin-left: 20px" >${k}<br /> </label>`)
+      htmls.push(`<label style="margin-left: 20px" ><input  type="checkbox"  class="${clsname}-e2"  id="${k}_${clsname}" data-key="config-hook-${k}-${v}" vilame="${index}" >  ${k}<br /> </label>`)
+    
     }
-    htmls.push(`<label style="margin-left: 40px; display:block" ><input class="${clsname}-e2" checked=true type="checkbox" data-key="config-hook-${k}-${v}" vilame="${index}">${k} ${v}<br /></label> `)
+    htmls.push(`<label style="margin-left: 40px; display:block" ><input class="${clsname}-e2" checked=true type="checkbox" data-key="config-hook-${k}-${v}" vilame="${index}"  thirdvilame="${k}_${clsname}">${k} ${v}<br /></label> `)
   }
   div.innerHTML += htmls.join('')
 }
@@ -459,6 +466,9 @@ document.querySelectorAll("input").forEach(function(v){
 })
 
 function changer(name, index, v){
+  if(v.target.id!="getsets_0" &&v.target.id!="funcs_0" &&v.target.id!="getsets_1" &&v.target.id!="funcs_1" ){
+    return
+  }
   if (v.target.dataset.key.indexOf('config-hook-all-') === -1){
     chrome.storage.local.set({
       [v.target.dataset.key]: v.target.checked
@@ -478,10 +488,39 @@ function changer(name, index, v){
   chrome.storage.local.set(wt)
 }
 
+function changer2(name, index, v){
+  console.log("changer2:",name, index, v,v.target.getAttribute('class'))
+
+  var ck = v.target.checked
+  var wt = {}
+  document.querySelectorAll("input").forEach(function(tv){
+      if (tv.className==v.target.getAttribute('class'))
+      {
+        if (tv.getAttribute('thirdvilame') == name){
+          tv.checked = ck
+          wt[tv.dataset.key] = tv.checked
+        }
+      }
+
+  })
+  chrome.storage.local.set(wt)
+}
+
+
+
+
 document.getElementById('getsets_0').addEventListener("change", changer.bind(null, 'getsets_0', 0))
 document.getElementById('funcs_0').addEventListener("change", changer.bind(null, 'funcs_0', 0))
 document.getElementById('getsets_1').addEventListener("change", changer.bind(null, 'getsets_1', 1))
 document.getElementById('funcs_1').addEventListener("change", changer.bind(null, 'funcs_1', 1))
+
+//循环添加二级目录的一键选择功能
+for (let i = 0; i < window.keyss.length; i++) {
+  // console.log(window.keyss[i]);
+  document.getElementById
+  document.getElementById(window.keyss[i]).addEventListener("change", changer2.bind(null, window.keyss[i], 0))
+
+}
 
 var fetch_hook = document.getElementById('fetch_hook');
 chrome.storage.local.get([fetch_hook.dataset.key], function (result) {
